@@ -1,6 +1,6 @@
 # jrcut
 
-[**⬇ jrcut v0 — Windows kurucusunu indir**](https://github.com/emrhn034/jrcut-releases/releases/download/v0/jrcut-0.2.93-Setup.exe)
+[**⬇ jrcut v0 — Windows kurucusunu indir**](https://github.com/emrhn034/jrcut-releases/releases/download/v0/jrcut-v0-Setup.exe)
 
 [Sürüm sayfası](https://github.com/emrhn034/jrcut-releases/releases/tag/v0)
 
