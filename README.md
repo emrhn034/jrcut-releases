@@ -23,4 +23,12 @@ jrcut, Windows için video düzenleme ve oyun klibi hazırlama uygulamasıdır.
 | --- | --- |
 | ![Efektler, geçişler, hareketli grafikler ve ses işleme](assets/ozellikler/yaratici-araclar.png) | ![Projeyi kaydet, videoyu dışa aktar ve QR ile telefonuna gönder](assets/ozellikler/disari-aktarim.png) |
 
+### Hazır video meme kütüphanesi
+
+Tepki kliplerini kategoriye göre bul, önizle ve zaman çizelgesine ekle. Sık kullandıklarını favorilerine kaydet.
+
+<p align="center">
+  <img src="assets/ozellikler/video-meme.png" width="560" alt="jrcut video meme kütüphanesi. Tepki klibini ara, önizle ve kurguya ekle.">
+</p>
+
 *Görseller, özellikleri temsili örneklerle anlatır.*
