@@ -8,3 +8,19 @@ jrcut, Windows için video düzenleme ve oyun klibi hazırlama uygulamasıdır.
 
 1. Yukarıdaki indirme bağlantısıyla Windows kurucusunu indir.
 2. Kurucuyu çalıştır ve **Kur** düğmesine bas. Kurucu, uygulama paketini ve altyazı modelini otomatik indirir. Kurulum sırasında internet bağlantısı gerekir.
+
+## jrcut ile neler yapabilirsin?
+
+| Kurgu | Shorts ve kadraj |
+| --- | --- |
+| ![Video, efekt ve ses katmanlarıyla kurgu](assets/ozellikler/kurgu.png) | ![Hazır Shorts düzenleri ve farklı tuval oranları](assets/ozellikler/shorts-ve-kadraj.png) |
+
+| Yayın ve oyun klipleri | Otomatik altyazı |
+| --- | --- |
+| ![Kick yayınlarını indir, ekran ve oyun kliplerini yakala](assets/ozellikler/yayin-ve-klip.png) | ![Türkçe ve İngilizce otomatik altyazı ve altyazı stilleri](assets/ozellikler/altyazi.png) |
+
+| Yaratıcı araçlar | Dışa aktarma |
+| --- | --- |
+| ![Efektler, geçişler, hareketli grafikler ve ses işleme](assets/ozellikler/yaratici-araclar.png) | ![Projeyi kaydet, videoyu dışa aktar ve QR ile telefonuna gönder](assets/ozellikler/disari-aktarim.png) |
+
+*Görseller, özellikleri temsili örneklerle anlatır.*
