@@ -9,26 +9,26 @@ jrcut, Windows için video düzenleme ve oyun klibi hazırlama uygulamasıdır.
 1. Yukarıdaki indirme bağlantısıyla Windows kurucusunu indir.
 2. Kurucuyu çalıştır ve **Kur** düğmesine bas. Kurucu, uygulama paketini ve altyazı modelini otomatik indirir. Kurulum sırasında internet bağlantısı gerekir.
 
+![jrcut — Windows için video düzenleme ve oyun klibi yakalama](assets/tanitim/jrcut-kapak.png)
+
 ## jrcut ile neler yapabilirsin?
 
-| Kurgu | Shorts ve kadraj |
-| --- | --- |
-| ![Video, efekt ve ses katmanlarıyla kurgu](assets/ozellikler/kurgu.png) | ![Hazır Shorts düzenleri ve farklı tuval oranları](assets/ozellikler/shorts-ve-kadraj.png) |
+![Kurgu ve kadraj — yatay videoyu Shorts formatına uyarla](assets/tanitim/kurgu-ve-kadraj.png)
 
-| Yayın ve oyun klipleri | Otomatik altyazı |
-| --- | --- |
-| ![Kick yayınlarını indir, ekran ve oyun kliplerini yakala](assets/ozellikler/yayin-ve-klip.png) | ![Türkçe ve İngilizce otomatik altyazı ve altyazı stilleri](assets/ozellikler/altyazi.png) |
+Video, fotoğraf ve sesi katmanlarla düzenle. Hazır Shorts yerleşimlerinde kamerayı üste veya köşeye al. Yatay, dikey, kare ve gönderi formatlarını kullan.
 
-| Yaratıcı araçlar | Dışa aktarma |
-| --- | --- |
-| ![Efektler, geçişler, hareketli grafikler ve ses işleme](assets/ozellikler/yaratici-araclar.png) | ![Projeyi kaydet, videoyu dışa aktar ve QR ile telefonuna gönder](assets/ozellikler/disari-aktarim.png) |
+![Oyun klibi yakalama — ekran, kamera ve ses](assets/tanitim/oyun-klibi.png)
 
-### Hazır video meme kütüphanesi
+Ekranı veya pencereyi seç, kamera ve mikrofonunu ekle. Klip tamponu açıkken son anları kaydet. Kick yayın tekrarlarını ve kliplerini de kurguya taşıyabilirsin.
 
-Tepki kliplerini kategoriye göre bul, önizle ve zaman çizelgesine ekle. Sık kullandıklarını favorilerine kaydet.
+![Altyazı ve efektler — kelime vurgusu ve renk karşılaştırması](assets/tanitim/altyazi-ve-efektler.png)
 
-<p align="center">
-  <img src="assets/ozellikler/video-meme.png" width="560" alt="jrcut video meme kütüphanesi. Tepki klibini ara, önizle ve kurguya ekle.">
-</p>
+Türkçe ve İngilizce otomatik altyazı oluştur. Metni, zamanlamayı ve görünümü düzenle. Geçişler, efektler, hareketli grafikler ve ses işleme araçlarıyla kurgunu tamamla.
+
+![Hazır video meme kütüphanesi — tepki klibini kurguya ekle](assets/tanitim/video-meme.png)
+
+Hazır video memelerini kategoriye göre bul, önizle ve zaman çizelgesine ekle. Sık kullandıklarını favorilerine kaydet.
+
+Projeni kaydet, videonu dışa aktar ve aynı Wi-Fi ağındaki telefonuna QR kodla gönder.
 
 *Görseller, özellikleri temsili örneklerle anlatır.*
