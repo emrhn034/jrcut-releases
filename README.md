@@ -1,6 +1,6 @@
 # jrcut
 
-[**⬇ jrcut v0 — Windows kurucusunu indir**](https://github.com/emrhn034/jrcut-releases/releases/download/v0/jrcut-v0-Setup-parallel.exe)
+[**⬇ jrcut v0 — Windows kurucusunu indir**](https://github.com/emrhn034/jrcut-releases/releases/download/v0/jrcut-v0-Setup-new-design.exe)
 
 [Sürüm sayfası](https://github.com/emrhn034/jrcut-releases/releases/tag/v0)
 
