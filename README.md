@@ -1,8 +1,8 @@
 # jrcut
 
-[**⬇ jrcut v0.1 — Windows kurucusunu indir**](https://github.com/emrhn034/jrcut-releases/releases/download/v0.1/jrcut.exe)
+[**⬇ jrcut v0.2 — Windows kurucusunu indir**](https://github.com/emrhn034/jrcut-releases/releases/download/v0.2/jrcut.exe)
 
-[Sürüm sayfası](https://github.com/emrhn034/jrcut-releases/releases/tag/v0.1)
+[Sürüm sayfası](https://github.com/emrhn034/jrcut-releases/releases/tag/v0.2)
 
 jrcut, Windows için video düzenleme ve oyun klibi hazırlama uygulamasıdır.
 
