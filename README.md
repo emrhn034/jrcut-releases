@@ -32,3 +32,8 @@ Hazır video memelerini kategoriye göre bul, önizle ve zaman çizelgesine ekle
 Projeni kaydet, videonu dışa aktar ve aynı Wi-Fi ağındaki telefonuna QR kodla gönder.
 
 *Görseller, özellikleri temsili örneklerle anlatır.*
+
+
+## Kullanım lisansı
+
+jrcut'un özgün yazılım hakları geliştiricisine aittir. Kişisel ve ticari video üretiminde kullanımına izin verilir. Yazılımın izinsiz yeniden satışı ve dağıtımı kısıtlıdır. Üçüncü taraf bileşen ve içeriklerin kendi lisansları geçerlidir. [Kullanım lisansını oku](LICENSE.txt).
