@@ -1,0 +1,26 @@
+jrcut Kullanım Lisansı
+Sürüm 1 — 10 Kasım 2026
+
+Copyright (c) 2026 jrcut geliştiricisi. Tüm hakları saklıdır.
+Resmî yayıncı hesabı https://github.com/emrhn034
+
+1. Kapsam ve mülkiyet
+Bu lisans, jrcut geliştiricisinin hak sahibi olduğu özgün yazılım, arayüz ve belgeler için geçerlidir. Yazılım üzerindeki fikrî mülkiyet hakları hak sahibinde kalır. Kullanıcıya yalnızca aşağıda belirtilen kullanım izni verilir.
+
+2. Kullanım izni
+Resmî dağıtım kanalından edinilen jrcut sürümünü kendi cihazlarında kurabilir, çalıştırabilir ve kişisel veya ticari video üretiminde kullanabilirsin. Kendi kullanımın için yedek kopya oluşturabilirsin. Bu izin münhasır değildir. Kendi özgün içeriklerin üzerindeki hakların sende kalır.
+
+3. Yeniden satış ve dağıtım
+Hak sahibinin önceden yazılı izni olmadan jrcut yazılımını veya kopyalarını satamaz, kiralayamaz, alt lisanslayamaz, başka bir ürünle paketleyerek dağıtamaz veya yeniden yayımlayamazsın. Yazılımı kendi ürününmüş gibi sunamaz, marka ve telif bildirimlerini kaldıramazsın. Resmî indirme sayfasının bağlantısını paylaşabilirsin.
+
+4. Üçüncü taraf bileşenler ve içerikler
+Açık kaynak bağımlılıkları, modeller, sesler, video memeleri ve diğer üçüncü taraf içerikleri ilgili hak sahiplerine aittir. Bunların kendi lisansları ve bildirimleri geçerlidir. Bu metin, üçüncü taraf lisanslarından doğan izinleri daraltmaz ve üçüncü taraf içeriklerini kullanma ya da ticari olarak dağıtma hakkı vermez. Ürettiğin videolarda kullandığın içeriklerin gerekli izinlerini sağlamak senin sorumluluğundadır.
+
+5. Emredici hükümler ve önceki izinler
+Yürürlükteki hukukun sınırlandırılmasına izin vermediği haklar saklıdır. Bu lisans, daha önce geçerli biçimde verilmiş lisans haklarını geriye dönük olarak kaldırmaz.
+
+6. Garanti ve sorumluluk
+Yazılım, hukukun izin verdiği ölçüde, mevcut haliyle sunulur. Kesintisiz veya hatasız çalışacağı garanti edilmez. Hak sahibinin sorumluluğu, emredici hukuk hükümleri ve uygulanabilir tüketici hakları saklı kalmak üzere, hukuken izin verilen ölçüde sınırlandırılır.
+
+7. Yazılı izin
+Yeniden dağıtım veya yeniden satış izni için resmî yayıncıyla iletişime geçilmelidir. Bu tür izinler hak sahibinin açık yazılı onayını gerektirir.
