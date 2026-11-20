@@ -11,6 +11,14 @@ jrcut, Windows için video düzenleme ve oyun klibi hazırlama uygulamasıdır.
 
 ![jrcut — Windows için video düzenleme ve oyun klibi yakalama](assets/tanitim/jrcut-kapak.png)
 
+## v0.014 — Daha hızlı dışa aktarma
+
+- Ağır efektli bölümlere odaklanan render ve uygun NVIDIA ekran kartlarında GPU hızlandırması.
+- Kamera/Shorts yerleşimleri, yeşil ekran, zoom, metin ve altyazılarda render iyileştirmeleri.
+- Çözünürlük, FPS ve seçilen bitrate korunur; performans proje ve donanıma göre değişir.
+
+Kurulu kullanıcılar **Ayarlar → Güncellemeler** bölümünden güncelleyebilir. Yeni kullanıcılar üstteki **güncel Windows kurucusu** bağlantısını kullanabilir.
+
 ## jrcut ile neler yapabilirsin?
 
 ![Kurgu ve kadraj — yatay videoyu Shorts formatına uyarla](assets/tanitim/kurgu-ve-kadraj.png)
