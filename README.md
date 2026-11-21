@@ -11,13 +11,21 @@ jrcut, Windows için video düzenleme ve oyun klibi hazırlama uygulamasıdır.
 
 ![jrcut — Windows için video düzenleme ve oyun klibi yakalama](assets/tanitim/jrcut-kapak.png)
 
-## v0.014 — Daha hızlı dışa aktarma
+## v0.015 — Sessizlikleri otomatik kaldır
 
-- Ağır efektli bölümlere odaklanan render ve uygun NVIDIA ekran kartlarında GPU hızlandırması.
-- Kamera/Shorts yerleşimleri, yeşil ekran, zoom, metin ve altyazılarda render iyileştirmeleri.
-- Çözünürlük, FPS ve seçilen bitrate korunur; performans proje ve donanıma göre değişir.
+![Sessizlikleri otomatik kaldır — boşlukları incele, tüm katmanları eşzamanlı kısalt](assets/tanitim/sessizlikleri-kaldir.png)
+
+Uzun duraklamaları tek tek kesmek yerine jrcut'a buldur. Zaman çizelgesinde video veya ses klibini seç, **◌ Sessizlik** düğmesine bas ve kesilecek bölümleri incele.
+
+- **Sessiz bölümler:** Ses seviyesi, en kısa boşluk ve korunacak pay ayarlarıyla gereksiz duraklamaları bul.
+- **Konuşma algılama:** Konuşma olmayan bölümleri bilgisayarında analiz et; ek hesap veya API anahtarı gerekmez.
+- **İncele ve uygula:** Kesilecek alanları dinle, önemli bölümleri koru ve kesilmiş halini önizle.
+- **Birlikte düzenleme:** Görüntü, kamera, ses ve altyazılar eşzamanlı kısalır; kaynak dosyan değişmez. Tek adımda geri alabilirsin.
+
+Analiz bilgisayarında yapılır; ses ve videoların analiz için bir sunucuya gönderilmez. En kısa boşluğu ve konuşma uçlarında korunacak payı ayarlayabilir, kesmek istemediğin bölümleri koruyabilirsin.
 
 Kurulu kullanıcılar **Ayarlar → Güncellemeler** bölümünden güncelleyebilir. Yeni kullanıcılar üstteki **güncel Windows kurucusu** bağlantısını kullanabilir.
+
 
 ## jrcut ile neler yapabilirsin?
 
