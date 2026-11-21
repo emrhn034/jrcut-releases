@@ -9,15 +9,33 @@ jrcut, Windows için video düzenleme ve oyun klibi hazırlama uygulamasıdır.
 1. Yukarıdaki indirme bağlantısıyla Windows kurucusunu indir.
 2. Kurucuyu çalıştır ve **Kur** düğmesine bas. Kurucu, uygulama paketini ve altyazı modelini otomatik indirir. Kurulum sırasında internet bağlantısı gerekir.
 
+Kurulu kullanıcılar **Ayarlar → Güncellemeler** bölümünden güncelleyebilir.
+
 ![jrcut — Windows için video düzenleme ve oyun klibi yakalama](assets/tanitim/jrcut-kapak.png)
 
-## v0.016 — Kamera ve oyun kadrajı düzeltildi
+## jrcut ile neler yapabilirsin?
 
-**Kaynak görüntüsünü kırp** ekranında kamera ve oyun alanlarını köşelerinden büyütüp küçült. Oyun seçimi panel oranını korur; serbest yerleşimde sağdaki telefon önizlemesinden iki alanı da doğrudan düzenleyebilirsin. Sayısal boyut ayarları ve tek adımda geri alma da desteklenir.
+### Kurgu ve kadraj
 
-Kurulu kullanıcılar **Ayarlar → Güncellemeler** bölümünden güncelleyebilir. Üstteki indirme bağlantısı güncel ve eksiksiz Windows kurucusuna gider.
+![Kurgu ve kadraj — yatay videoyu Shorts formatına uyarla](assets/tanitim/kurgu-ve-kadraj.png)
 
-## v0.015 — Sessizlikleri otomatik kaldır
+Video, fotoğraf ve sesi katmanlarla düzenle. Hazır Shorts yerleşimlerinde kamerayı üste veya köşeye al. Yatay, dikey, kare ve gönderi formatlarını kullan.
+
+**Kaynak görüntüsünü kırp** ekranında kamera ve oyun alanlarını seç, taşı ve köşelerinden büyütüp küçült. Oyun seçimi panel oranını korur. Serbest yerleşimde sağdaki telefon önizlemesinden iki alanın yerini ve boyutunu doğrudan ayarla. Sayısal boyut ayarlarını kullanabilir, değişikliklerini tek adımda geri alabilirsin.
+
+### Oyun klibi ve ekran kaydı
+
+![Oyun klibi yakalama — ekran, kamera ve ses](assets/tanitim/oyun-klibi.png)
+
+Ekranı veya pencereyi seç, kamera ve mikrofonunu ekle. Klip tamponu açıkken son anları kaydet. Kick yayın tekrarlarını ve kliplerini de kurguya taşıyabilirsin.
+
+### Altyazı ve efektler
+
+![Altyazı ve efektler — kelime vurgusu ve renk karşılaştırması](assets/tanitim/altyazi-ve-efektler.png)
+
+Türkçe ve İngilizce otomatik altyazı oluştur. Metni, zamanlamayı ve görünümü düzenle. Geçişler, efektler, hareketli grafikler ve ses işleme araçlarıyla kurgunu tamamla.
+
+### Sessizlikleri otomatik kaldır
 
 ![Sessizlikleri otomatik kaldır — boşlukları incele, tüm katmanları eşzamanlı kısalt](assets/tanitim/sessizlikleri-kaldir.png)
 
@@ -30,31 +48,17 @@ Uzun duraklamaları tek tek kesmek yerine jrcut'a buldur. Zaman çizelgesinde vi
 
 Analiz bilgisayarında yapılır; ses ve videoların analiz için bir sunucuya gönderilmez. En kısa boşluğu ve konuşma uçlarında korunacak payı ayarlayabilir, kesmek istemediğin bölümleri koruyabilirsin.
 
-Kurulu kullanıcılar **Ayarlar → Güncellemeler** bölümünden güncelleyebilir. Yeni kullanıcılar üstteki **güncel Windows kurucusu** bağlantısını kullanabilir.
-
-
-## jrcut ile neler yapabilirsin?
-
-![Kurgu ve kadraj — yatay videoyu Shorts formatına uyarla](assets/tanitim/kurgu-ve-kadraj.png)
-
-Video, fotoğraf ve sesi katmanlarla düzenle. Hazır Shorts yerleşimlerinde kamerayı üste veya köşeye al. Yatay, dikey, kare ve gönderi formatlarını kullan.
-
-![Oyun klibi yakalama — ekran, kamera ve ses](assets/tanitim/oyun-klibi.png)
-
-Ekranı veya pencereyi seç, kamera ve mikrofonunu ekle. Klip tamponu açıkken son anları kaydet. Kick yayın tekrarlarını ve kliplerini de kurguya taşıyabilirsin.
-
-![Altyazı ve efektler — kelime vurgusu ve renk karşılaştırması](assets/tanitim/altyazi-ve-efektler.png)
-
-Türkçe ve İngilizce otomatik altyazı oluştur. Metni, zamanlamayı ve görünümü düzenle. Geçişler, efektler, hareketli grafikler ve ses işleme araçlarıyla kurgunu tamamla.
+### Hazır video meme kütüphanesi
 
 ![Hazır video meme kütüphanesi — tepki klibini kurguya ekle](assets/tanitim/video-meme.png)
 
 Hazır video memelerini kategoriye göre bul, önizle ve zaman çizelgesine ekle. Sık kullandıklarını favorilerine kaydet.
 
+### Dışa aktar ve telefona gönder
+
 Projeni kaydet, videonu dışa aktar ve aynı Wi-Fi ağındaki telefonuna QR kodla gönder.
 
 *Görseller, özellikleri temsili örneklerle anlatır.*
-
 
 ## Kullanım lisansı
 
