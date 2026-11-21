@@ -11,6 +11,12 @@ jrcut, Windows için video düzenleme ve oyun klibi hazırlama uygulamasıdır.
 
 ![jrcut — Windows için video düzenleme ve oyun klibi yakalama](assets/tanitim/jrcut-kapak.png)
 
+## v0.016 — Kamera ve oyun kadrajı düzeltildi
+
+**Kaynak görüntüsünü kırp** ekranında kamera ve oyun alanlarını köşelerinden büyütüp küçült. Oyun seçimi panel oranını korur; serbest yerleşimde sağdaki telefon önizlemesinden iki alanı da doğrudan düzenleyebilirsin. Sayısal boyut ayarları ve tek adımda geri alma da desteklenir.
+
+Kurulu kullanıcılar **Ayarlar → Güncellemeler** bölümünden güncelleyebilir. Üstteki indirme bağlantısı güncel ve eksiksiz Windows kurucusuna gider.
+
 ## v0.015 — Sessizlikleri otomatik kaldır
 
 ![Sessizlikleri otomatik kaldır — boşlukları incele, tüm katmanları eşzamanlı kısalt](assets/tanitim/sessizlikleri-kaldir.png)
