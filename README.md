@@ -54,6 +54,8 @@ Analiz bilgisayarında yapılır; ses ve videoların analiz için bir sunucuya g
 
 Hazır video memelerini kategoriye göre bul, önizle ve zaman çizelgesine ekle. Sık kullandıklarını favorilerine kaydet.
 
+Kendi video memelerini dosya seçerek veya sürükleyip bırakarak kalıcı kütüphanene ekle. Kişisel videolarını **Eklediklerim** bölümünde bul, önizle ve zaman çizelgesine ekle. Videoların projeler arasında saklanır.
+
 ### Dışa aktar ve telefona gönder
 
 Projeni kaydet, videonu dışa aktar ve aynı Wi-Fi ağındaki telefonuna QR kodla gönder.
